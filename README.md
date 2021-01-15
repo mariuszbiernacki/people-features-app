@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+### 🔧 Technology Stack
+
+- React.js
+- Styled-Components
+
+# people-features-app
+
+<br />
+link to demo version: https://people-features-app.netlify.app
+<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
